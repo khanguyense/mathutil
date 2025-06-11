@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.khantse.util</groupId>
+    <artifactId>mathutil</artifactId>
+    <version>67.89</version>
+
+    <properties>
+        <maven.compiler.source>21</maven.compiler.source>
+        <maven.compiler.target>21</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+<!--ĐÂY LÀ NƠI KHAI BÁO CÁC THƯ VIỆN CẦN DÙNG
+    NHƯNG KHAI BÁO THEO CÚ PHÁP NÀO ?
+    LÀM SAO TẢI THƯ VIỆN VỀ -.JAR,ADD PROJECT ĐỂ DÙNG
+    CÓ 1 CÁI TOOL CÀI SẴN THEO NETBEAN, ECLIPES, INTELLIJ, TÊN LÀM MAVEN
+    GIÚP TA KHAI BÁO, TẢI VỀ, ADD VÀO PROJECT, THẬM CHÍ CÒN GIÚP BUIL APP
+    VÀ ĐÓNG GÓI APP THÀNH .JAR,.WAR
+    BÊN TRONG NODE.JS/REACT, ĐÓ LÀ TOOL NPM
+    BÊN C# ĐÓ LÀ TOOL: NUGET
+    BÊN  JAVA TOOL LÀ : MAVEN : MVM-->
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.junit.jupiter/junit-jupiter -->
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter</artifactId>
+            <version>5.13.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+</project>
