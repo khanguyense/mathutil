@@ -1,3 +1,7 @@
+[![Math Utility Project (CI included) | © 2025 by khanguyense](https://github.com/khanguyense/mathutil/actions/workflows/ciruner.yml/badge.svg)](https://github.com/khanguyense/mathutil/actions/workflows/ciruner.yml)
+
+
+
 # welcome to Math Utility Repository 
 ## You will find in this repo the following stuff:
 * A Maven Java project to offer the Math method like : abs(absolute),
